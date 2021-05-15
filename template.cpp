@@ -5,16 +5,16 @@ using namespace std;
 #define mp make_pair
 #define fi first
 #define se second
+#define ar array
+#define ll long long
+#define nl "\n"
 #define all(x) (x).begin(),(x).end()
 #define rall(x) (x).rbegin(),(x).rend()
 #define f(i,n) for(int i = 0;i <(int)(n);++i)
 #define fr(i,n) for(int i = (int)(n) - 1;i>=0;i--)
 #define rep(i,a,b) for(int i = (int)(a); i<=(int) (b); ++i)
 #define repr(i,a,b) for(int i = (int)(b); i>=(int) (a); i--)
-#define ar array
-#define ll long long
 #define rnd(x) cout<<setprecision((int)(x) +1)
-#define nl "\n"
 
 typedef vector<int> vi;
 typedef pair<int, int> pi;
