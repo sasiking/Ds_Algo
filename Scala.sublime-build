@@ -1,0 +1,6 @@
+{
+    "cmd": ["start","scala", "$file_name"],
+    "working_dir": "${project_path:${folder}}",
+    "selector": "source.scala",
+    "shell": true
+}
